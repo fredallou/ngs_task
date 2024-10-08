@@ -1,0 +1,2 @@
+@SQ	SN:chr4	LN:150001
+@PG	ID:bwa	PN:bwa	VN:0.7.17-r1188	CL:bwa mem reference.fasta ACBarrie_R1_trimmed.fastq.gz ACBarrie_R2_trimmed.fastq.gz
